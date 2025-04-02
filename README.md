@@ -57,29 +57,11 @@ To keep things **organized and accessible**, the repo is structured as follows:
 fullstack-foundations/
 │-- 01_data-structures-algorithms/
 │   │-- README.md
-│   │-- problems/
-│   │-- solutions/
-│   │-- notes.md
-│-- 02_computer-organization/
-│   │-- README.md
-│   │-- notes.md
-│-- 03_operating-system/
-│   │-- README.md
-│   │-- notes.md
-│-- 04_computer-network/
-│   │-- README.md
-│   │-- notes.md
-│-- 05_database-system/
-│   │-- README.md
-│   │-- sql-exercises/
-│-- ... (other topics follow similar structure)
-│-- projects/
-│   │-- mini-projects/
-│   │-- major-projects/
-│-- resources/
-│   │-- books.md
-│   │-- courses.md
-│   │-- links.md
+│   │-- exercises/
+│   │-- projects/
+│   │-- notes/
+│   │-- interview-prep/
+│   │-- progress.md
 │-- README.md
 ```
 
@@ -89,10 +71,12 @@ fullstack-foundations/
 Each topic will have a **dedicated folder** with structured documentation:
 
 1. **README.md** → Overview of the topic.
-2. **notes.md** → My personal notes, key concepts, and explanations.
-3. **problems/** → Coding problems and solutions (if applicable).
+2. **notes/** → My personal notes, key concepts, and explanations. 
+3. **exercises/** → Coding exercises and solutions.
 4. **projects/** → Projects to apply concepts.
-5. **resources.md** → Useful links, books, and courses.
+4. **interview-prep/** → Interview preparation questions and insights.
+5. **progress.md** → My daily progress status of the topic.
+6. **resources.md** -> Useful links, books, and courses.
 
 ### Example of `README.md` for a Topic
 Each topic will have a **README.md** structured like this:
@@ -147,6 +131,8 @@ This repository is a **personal learning journal** for mastering Full-Stack Deve
 ## 🚀 Let's Get Started!
 This repo is my **commitment** to mastering full-stack development. I will update it **regularly** with new learnings and projects. If you're on a similar journey, feel free to connect!
 
-🔗 LinkedIn: https://in.linkedin.com/in/kaushaljoshi75  | 📌 GitHub: https://github.com/kaushaljoshi09
+🔗 LinkedIn: [LinkedIn](https://in.linkedin.com/in/kaushaljoshi75)
 
+
+Happy learning and coding!.....❤️
 ---
