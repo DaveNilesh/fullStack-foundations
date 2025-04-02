@@ -55,13 +55,11 @@ To keep things **organized and accessible**, the repo is structured as follows:
 
 ```
 fullstack-foundations/
-│-- 01_data-structures-algorithms/
+│-- 01_python/
 │   │-- README.md
 │   │-- exercises/
 │   │-- projects/
 │   │-- notes/
-│   │-- interview-prep/
-│   │-- progress.md
 │-- README.md
 ```
 
@@ -74,28 +72,33 @@ Each topic will have a **dedicated folder** with structured documentation:
 2. **notes/** → My personal notes, key concepts, and explanations. 
 3. **exercises/** → Coding exercises and solutions.
 4. **projects/** → Projects to apply concepts.
-4. **interview-prep/** → Interview preparation questions and insights.
-5. **progress.md** → My daily progress status of the topic.
-6. **resources.md** -> Useful links, books, and courses.
 
 ### Example of `README.md` for a Topic
 Each topic will have a **README.md** structured like this:
 
 ```
-# Data Structures & Algorithms
+# Python & Data Structures & Algorithms
 
 ## 📌 Overview
-This section covers important concepts in Data Structures & Algorithms, focusing on problem-solving and efficiency.
+This section covers important concepts in Python & Data Structures & Algorithms, focusing on problem-solving and efficiency.
 
-## 📚 Topics Covered
-- Arrays, Linked Lists, Stacks, Queues
-- Trees, Graphs, Heaps, Hash Tables
-- Searching & Sorting Algorithms
-- Dynamic Programming & Greedy Algorithms
+
+## **📂 Folder Structure**  
+
+01_python/
+│-- README.md  # Overview of Python learning roadmap
+│-- notes/  # Theory explanations & summaries
+│-- exercises/  # Hands-on coding practice
+│-- projects/  # Practical applications
+
+## 📚 Topics
+- Variables and Data Types
+- Basic Operations
+- Conditional Statements
+- Loops
 
 ## 🔍 Resources
 - [LeetCode Problems](https://leetcode.com/)
-- [MIT OpenCourseWare - Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 ## 🚀 My Learning Progress
 ✔️ Arrays - Completed ✅

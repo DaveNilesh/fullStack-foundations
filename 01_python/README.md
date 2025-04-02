@@ -1,5 +1,8 @@
 # **🐍 Python Learning Journey**  
 
+---
+
+## 📌 Overview
 👋 **Welcome!** This folder is part of my **Full-Stack Foundations** roadmap, where I’ll be documenting everything I learn about **Python**—from the basics to advanced topics, data structures & algorithms (DSA), projects, and interview preparation.  
 
 **📌 Goal:** Re-learn Python **systematically** and apply it in **real-world projects & interviews**. 🚀  
@@ -11,69 +14,98 @@
 ```
 01_python/
 │-- README.md  # Overview of Python learning roadmap
-│-- progress.md  # Track daily/weekly learning progress
 │-- notes/  # Theory explanations & summaries
-│   │-- README.md  # How to use notes
-│   │-- basics.md  # Variables, data types, loops, functions
-│   │-- oop.md  # Classes, objects, inheritance, encapsulation
-│   │-- dsa.md  # Python for data structures & algorithms
 │-- exercises/  # Hands-on coding practice
-│   │-- README.md  # How to use exercises
-│   │-- 01_basics.py  # Python syntax, loops, conditions
-│   │-- 02_oop.py  # Object-Oriented Programming problems
-│   │-- 03_dsa.py  # Sorting, searching, recursion
 │-- projects/  # Practical applications
-│   │-- README.md  # List of projects
-│   │-- todo_app/  # CLI-based To-Do app
-│   │-- web_scraper/  # Python Web Scraper using BeautifulSoup
-│   │-- flask_api/  # Simple REST API using Flask
-│-- interview-prep/  # Python coding interview prep
-│   │-- README.md  # How to prepare for interviews
-│   │-- leetcode_solutions/  # LeetCode problem solutions
-│   │-- common_questions.md  # List of frequently asked Python interview Qs
-│-- resources.md  # Books, courses, useful links
 ```
 
 ---
 
-## **🚀 How to Use This Repository?**  
+## 📚 Topics
 
-🔹 **1. Follow the Notes 📖**  
-Start with `/notes/README.md` to understand the structure. Then follow:  
-- `basics.md` → Core Python concepts  
-- `oop.md` → Object-Oriented Programming  
-- `dsa.md` → Python for Data Structures & Algorithms  
+## Fundamental Python Concepts (Must Master)
+1. **Python Syntax and Core Concepts**
+   - Variables, data types, operators
+   - Control flow (conditionals, loops)
+   - Functions and scope
+   - Error handling (try/except)
+   - Modules and packages
 
-🔹 **2. Practice with Exercises 💻**  
-- `/exercises` contains hands-on coding problems with solutions.  
-- Try **solving first, then check the answers**.  
+2. **Data Structures & Algorithms (Critical)**
+   - Lists, dictionaries, sets, tuples
+   - Stacks, queues, linked lists
+   - Trees (binary trees, BST, balanced trees)
+   - Graphs (representation, traversal)
+   - Sorting algorithms (quicksort, mergesort)
+   - Searching algorithms (binary search)
+   - Dynamic programming
+   - Recursion
+   - Big O notation and complexity analysis
+   - Hash tables and collision resolution
+   - Heaps and priority queues
 
-🔹 **3. Build Small Projects 🛠**  
-- `/projects` has real-world mini-projects.  
-- Start with **simple apps**, then move to **API development** and automation scripts.  
+3. **Object-Oriented Programming**
+   - Classes, objects, methods
+   - Inheritance, encapsulation, polymorphism
+   - Abstract classes and interfaces
+   - Design patterns (Factory, Singleton, Observer, etc.)
+   - SOLID principles
+   - Magic/dunder methods
+   - Property decorators
 
-🔹 **4. Prepare for Interviews 🎯**  
-- `/interview-prep` has **Python-based coding questions & LeetCode solutions**.  
-- Covers **FAANG-style** problem-solving techniques.  
+4. **Functional Programming**
+   - First-class functions
+   - Lambda expressions
+   - Higher-order functions
+   - List comprehensions and generator expressions
+   - Map, filter, reduce
+   - Closures
+   - Decorators
 
----
+## Advanced Python Concepts
+1. **Concurrency & Parallelism**
+   - Threading vs multiprocessing
+   - Global Interpreter Lock (GIL)
+   - Asyncio and asynchronous programming
+   - Futures and promises
+   - Thread safety and race conditions
+   - Concurrent data structures
+   - Task scheduling
 
-## **🎯 Learning Approach & Timeline**  
+2. **Memory Management**
+   - Python's memory model
+   - Garbage collection
+   - Memory profiling
+   - Memory optimization techniques
+   - Weak references
+   - Memory leaks identification
 
-📅 **Phase 1: Python Basics (Week 1-4)**  
-📌 Learn Python syntax, data types, functions, OOP.  
+3. **Advanced Language Features**
+   - Generators and iterators
+   - Context managers
+   - Metaclasses
+   - Descriptors
+   - Decorators (advanced usage)
+   - Type hints and annotations
+   - Abstract Base Classes
+   - Dataclasses
 
-📅 **Phase 2: DSA with Python (Week 5-12)**  
-📌 Solve problems on **arrays, linked lists, trees, graphs, recursion, dynamic programming**.  
+4. **Python Internals**
+   - Bytecode compilation
+   - Import system
+   - Attribute lookup
+   - Method resolution order
+   - Python's data model
 
-📅 **Phase 3: Python for Web & Cloud (Week 13-20)**  
-📌 **Flask, Django, FastApi**, REST APIs, Web Scraping, AWS, Docker.  
-
-📅 **Phase 4: Advanced Topics & AI/ML (Week 21-36)**  
-📌 **Machine Learning Basics**, Cloud functions, System Design.  
-
----
-
+5. **Data Science & Machine Learning**
+   - NumPy, pandas, matplotlib
+   - Scikit-learn basics
+   - TensorFlow/PyTorch fundamentals
+   - Feature engineering
+   - Model evaluation
+   - Data preprocessing
+   
+   
 ## **📚 Resources & Learning Materials**  
 
 📖 **Recommended Books & Courses**  
@@ -91,16 +123,10 @@ Start with `/notes/README.md` to understand the structure. Then follow:
 
 ---
 
-## **📌 Tracking Progress**  
+## 🚀 My Learning Progress
 
-📌 **Check `progress.md`** for my weekly learning updates!  
-✅ Solved coding problems  
-✅ Notes & explanations  
-✅ Completed projects  
 
-🚀 **I will update this weekly!**  
 
----
 
 ## **🤝 Connect & Collaborate**  
 
